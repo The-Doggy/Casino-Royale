@@ -1,4 +1,0 @@
-repository "Casino Royale@DogGamesInc@cloud"
-  path "/"
-    br "/main"
-    co "/main"
